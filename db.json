@@ -1,0 +1,55 @@
+{
+    "articles": [
+      {
+        "id": "1",
+        "title": "Article One",
+        "content": "Content for the first article."
+      },
+      {
+        "id": "2",
+        "title": "Article Two",
+        "content": "Content for the second article."
+      },
+      {
+        "id": "3",
+        "title": "Article Three",
+        "content": "Content for the third article."
+      },
+      {
+        "id": "4",
+        "title": "Article Four",
+        "content": "Content for the fourth article."
+      },
+      {
+        "id": "5",
+        "title": "Article Five",
+        "content": "Content for the fifth article."
+      },
+      {
+        "id": "6",
+        "title": "Article Six",
+        "content": "Content for the sixth article."
+      },
+      {
+        "id": "7",
+        "title": "Article Seven",
+        "content": "Content for the seventh article."
+      },
+      {
+        "id": "8",
+        "title": "Article Eight",
+        "content": "Content for the eighth article."
+      },
+      {
+        "id": "9",
+        "title": "Article Nine",
+        "content": "Content for the ninth article."
+      },
+      {
+        "id": "10",
+        "title": "Article Ten",
+        "content": "Content for the tenth article."
+      }
+    ]
+  }
+  
